@@ -139,7 +139,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "00a92032-6aab-456c-8323-abfd79fd6d42")
-		(at 186.592 83.184)
+		(at 197.308 67.016)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
@@ -332,7 +332,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 		(layer "F.Cu")
 		(uuid "0bb87be5-63c7-489b-8c9b-e8c603189341")
-		(at 151.546801 78.194)
+		(at 178.562 54.356)
 		(descr "CP, Radial series, Radial, pin pitch=2.00mm, diameter=4mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.00mm diameter 4mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C4"
@@ -1446,7 +1446,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "180e8df5-1838-40b1-87a5-1ce55e7b389d")
-		(at 186.592 88.434)
+		(at 197.308 72.266)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
@@ -1639,7 +1639,7 @@
 	(footprint "IRF1405:TO254P483X1016X1994-3P"
 		(layer "F.Cu")
 		(uuid "205f4c8d-f16c-408e-be98-77b9973152d8")
-		(at 158.887 82.109)
+		(at 133.35 61.462)
 		(descr "ADR444ARMZ")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q5"
@@ -1974,7 +1974,7 @@
 	(footprint "Diode_SMD:D_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "49b6d010-97e6-46f9-a93c-208a3e60193c")
-		(at 187.207 74.154)
+		(at 164.923 56.705)
 		(descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D2"
@@ -2226,7 +2226,7 @@
 	(footprint "Package_DIP:DIP-8_W7.62mm_SMDSocket_SmallPads"
 		(layer "F.Cu")
 		(uuid "4c0258c2-8589-4573-bd74-d968c0d37964")
-		(at 173.392 64.684)
+		(at 154.686 13.97)
 		(descr "8-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), SMDSocket, SmallPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads")
 		(property "Reference" "U1"
@@ -2531,7 +2531,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 		(layer "F.Cu")
 		(uuid "6accb57e-270a-4bba-b093-d086674c6c8e")
-		(at 151.546801 72.644)
+		(at 180.891401 28.702)
 		(descr "CP, Radial series, Radial, pin pitch=2.00mm, diameter=4mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.00mm diameter 4mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C3"
@@ -3645,7 +3645,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "6b53abd6-cb2e-473d-b0b3-595aba7471ef")
-		(at 186.592 91.934)
+		(at 197.308 75.766)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R6"
@@ -3838,7 +3838,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "7ab8d101-5936-4a5d-b664-0c0117ba0a22")
-		(at 186.592 84.934)
+		(at 197.308 68.766)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
@@ -4031,7 +4031,7 @@
 	(footprint "Package_DIP:DIP-8_W7.62mm_SMDSocket_SmallPads"
 		(layer "F.Cu")
 		(uuid "8400319c-0a68-41a2-9dac-0870e5e58f3a")
-		(at 185.102 64.684)
+		(at 152.4 63.246)
 		(descr "8-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), SMDSocket, SmallPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads")
 		(property "Reference" "U4"
@@ -4336,11 +4336,11 @@
 	(footprint "Diode_SMD:D_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "861ade54-6de5-4280-b4cf-252d014891b3")
-		(at 186.622 72.059 -90)
+		(at 164.338 54.61 -90)
 		(descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D1"
-			(at 0 -1.05 270)
+			(at 0 -1.05 90)
 			(layer "F.SilkS")
 			(uuid "296f988b-b735-43b6-b584-333fe94af716")
 			(effects
@@ -4351,7 +4351,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.05 270)
+			(at 0 1.05 90)
 			(layer "F.Fab")
 			(uuid "e37ad7a6-8a77-4509-a120-735e0bc7ac48")
 			(effects
@@ -4362,7 +4362,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a63186b1-0fea-4a8f-9090-e5f23dfaf3b2")
@@ -4374,7 +4374,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e01a0360-5b0b-401b-90f0-2ef45d0717e3")
@@ -4528,7 +4528,7 @@
 			(uuid "634051d7-5eb7-4bf2-b344-aa851d34f83a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -0.68 270)
+			(at 0 -0.68 90)
 			(layer "F.Fab")
 			(uuid "f53fcdf9-6012-4211-8932-fdefdae79efb")
 			(effects
@@ -4588,7 +4588,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 		(layer "F.Cu")
 		(uuid "94d31f93-49fa-471d-bcd1-dfda89f7d861")
-		(at 151.546801 89.294)
+		(at 143.256 55.88)
 		(descr "CP, Radial series, Radial, pin pitch=2.00mm, diameter=4mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.00mm diameter 4mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C6"
@@ -5702,11 +5702,11 @@
 	(footprint "Package_DIP:DIP-8_W7.62mm_SMDSocket_SmallPads"
 		(layer "F.Cu")
 		(uuid "aae5fa65-4090-4565-a039-bfa040d3fc11")
-		(at 179.832 76.454 90)
+		(at 177.8 37.338)
 		(descr "8-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), SMDSocket, SmallPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads")
 		(property "Reference" "U3"
-			(at 0 -6.14 90)
+			(at 0 -6.14 0)
 			(layer "F.SilkS")
 			(uuid "f5d0e071-5068-4f18-bcf3-3498deedcdff")
 			(effects
@@ -5717,7 +5717,7 @@
 			)
 		)
 		(property "Value" "IR2101"
-			(at 0 6.14 90)
+			(at 0 6.14 0)
 			(layer "F.Fab")
 			(uuid "99a7f0d6-eef4-45a2-8c28-c516fb73a94c")
 			(effects
@@ -5728,7 +5728,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.infineon.com/dgdl/ir2101.pdf?fileId=5546d462533600a4015355c7a755166c"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cc71550e-19de-4c7f-bbba-10e4061cd987")
@@ -5740,7 +5740,7 @@
 			)
 		)
 		(property "Description" "High and Low Side Driver, 600V, 210/360mA, PDIP-8/SOIC-8"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "10b017ea-374a-4ced-826c-1c3805cb4835")
@@ -5757,14 +5757,24 @@
 		(sheetfile "UWSC_PCB.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start 2.65 -5.14)
-			(end 1 -5.14)
+			(start -2.65 -5.14)
+			(end -2.65 5.14)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "85961a8f-bf95-4668-9d28-fa167d3a817b")
+			(uuid "742d0d7d-5d7c-4d52-a7c7-03c3d0037d31")
+		)
+		(fp_line
+			(start -2.65 5.14)
+			(end 2.65 5.14)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e70aa3f0-37ed-4033-84aa-aa7cca04019a")
 		)
 		(fp_line
 			(start -1 -5.14)
@@ -5777,14 +5787,14 @@
 			(uuid "02d49845-fd62-48f2-8ae0-d90c8ab738c1")
 		)
 		(fp_line
-			(start -2.65 -5.14)
-			(end -2.65 5.14)
+			(start 2.65 -5.14)
+			(end 1 -5.14)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "742d0d7d-5d7c-4d52-a7c7-03c3d0037d31")
+			(uuid "85961a8f-bf95-4668-9d28-fa167d3a817b")
 		)
 		(fp_line
 			(start 2.65 5.14)
@@ -5795,16 +5805,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "d4ae00bf-cee4-44b7-8860-22977f1e2d42")
-		)
-		(fp_line
-			(start -2.65 5.14)
-			(end 2.65 5.14)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e70aa3f0-37ed-4033-84aa-aa7cca04019a")
 		)
 		(fp_rect
 			(start -5.14 -5.2)
@@ -5840,14 +5840,24 @@
 			(uuid "fa10b462-f715-4124-9495-6ca23b8a122b")
 		)
 		(fp_line
-			(start 3.175 -5.08)
-			(end 3.175 5.08)
+			(start -3.175 -4.08)
+			(end -2.175 -5.08)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7fc13137-7a2c-47ab-a8f7-5978e909ee1a")
+			(uuid "f1be96e0-2979-43b9-8775-5e23f8645359")
+		)
+		(fp_line
+			(start -3.175 5.08)
+			(end -3.175 -4.08)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c6ef93e9-bd03-47db-bdfd-33b146e87a28")
 		)
 		(fp_line
 			(start -2.175 -5.08)
@@ -5860,14 +5870,14 @@
 			(uuid "09d7c8c1-ed75-4543-9029-98d153ea68dc")
 		)
 		(fp_line
-			(start -3.175 -4.08)
-			(end -2.175 -5.08)
+			(start 3.175 -5.08)
+			(end 3.175 5.08)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f1be96e0-2979-43b9-8775-5e23f8645359")
+			(uuid "7fc13137-7a2c-47ab-a8f7-5978e909ee1a")
 		)
 		(fp_line
 			(start 3.175 5.08)
@@ -5878,16 +5888,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "63e1db2f-e1ad-484e-9ce3-829f25f2be0e")
-		)
-		(fp_line
-			(start -3.175 5.08)
-			(end -3.175 -4.08)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "c6ef93e9-bd03-47db-bdfd-33b146e87a28")
 		)
 		(fp_rect
 			(start -5.08 -5.14)
@@ -5901,7 +5901,7 @@
 			(uuid "c85c29c6-67f4-46ed-9135-5156f52c010f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "4abe2cc4-8390-49ae-836c-9b3a7be1be9d")
 			(effects
@@ -5912,7 +5912,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -3.81 -3.81 90)
+			(at -3.81 -3.81)
 			(size 1.6 1.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15625)
@@ -5922,7 +5922,7 @@
 			(uuid "16b2d766-f8cf-4c53-8907-b27164da29f7")
 		)
 		(pad "2" smd roundrect
-			(at -3.81 -1.27 90)
+			(at -3.81 -1.27)
 			(size 1.6 1.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15625)
@@ -5932,7 +5932,7 @@
 			(uuid "a4fc8684-a5b5-434a-b687-f373d1ebc488")
 		)
 		(pad "3" smd roundrect
-			(at -3.81 1.27 90)
+			(at -3.81 1.27)
 			(size 1.6 1.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15625)
@@ -5942,7 +5942,7 @@
 			(uuid "cd133324-d901-452f-adb0-605c57c86a80")
 		)
 		(pad "4" smd roundrect
-			(at -3.81 3.81 90)
+			(at -3.81 3.81)
 			(size 1.6 1.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15625)
@@ -5952,7 +5952,7 @@
 			(uuid "f5bd504a-6279-4491-a580-d146afbd3474")
 		)
 		(pad "5" smd roundrect
-			(at 3.81 3.81 90)
+			(at 3.81 3.81)
 			(size 1.6 1.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15625)
@@ -5962,7 +5962,7 @@
 			(uuid "75953d0a-64b2-435b-bb00-667a3ce00942")
 		)
 		(pad "6" smd roundrect
-			(at 3.81 1.27 90)
+			(at 3.81 1.27)
 			(size 1.6 1.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15625)
@@ -5972,7 +5972,7 @@
 			(uuid "1a3a925d-aa6a-453d-a5e8-27bef65620aa")
 		)
 		(pad "7" smd roundrect
-			(at 3.81 -1.27 90)
+			(at 3.81 -1.27)
 			(size 1.6 1.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15625)
@@ -5982,7 +5982,7 @@
 			(uuid "41776522-9ff5-4e7e-95ac-d968210303f8")
 		)
 		(pad "8" smd roundrect
-			(at 3.81 -3.81 90)
+			(at 3.81 -3.81)
 			(size 1.6 1.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.15625)
@@ -6007,7 +6007,7 @@
 	(footprint "IRF1405:TO254P483X1016X1994-3P"
 		(layer "F.Cu")
 		(uuid "adc17c2e-6a27-46a4-902f-428e6ba60ffd")
-		(at 158.887 69.349)
+		(at 169.164 25.902)
 		(descr "ADR444ARMZ")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q2"
@@ -6342,7 +6342,7 @@
 	(footprint "IRF1405:TO254P483X1016X1994-3P"
 		(layer "F.Cu")
 		(uuid "b4a64047-97ef-457a-a77f-2e1f2275dc82")
-		(at 158.887 62.969)
+		(at 164.084 17.78)
 		(descr "ADR444ARMZ")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q1"
@@ -6677,7 +6677,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 		(layer "F.Cu")
 		(uuid "b61afa13-b53d-4cbf-84ba-0a606118a60d")
-		(at 151.546801 83.744)
+		(at 159.301401 68.326)
 		(descr "CP, Radial series, Radial, pin pitch=2.00mm, diameter=4mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.00mm diameter 4mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C5"
@@ -7791,7 +7791,7 @@
 	(footprint "IRF1405:TO254P483X1016X1994-3P"
 		(layer "F.Cu")
 		(uuid "b805fc1c-de3f-4e90-9fd0-9c8933916881")
-		(at 169.717 74.169 -90)
+		(at 171.964 54.864 -90)
 		(descr "ADR444ARMZ")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q3"
@@ -8126,7 +8126,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "bf608366-2d46-44e9-bc3d-f738bf55588d")
-		(at 186.592 90.184)
+		(at 197.308 74.016)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R5"
@@ -8319,7 +8319,7 @@
 	(footprint "digikey-footprints:TQFP-32_7x7mm"
 		(layer "F.Cu")
 		(uuid "cbb7e924-5c66-4e77-8c21-385d78207ea6")
-		(at 179.642 88.034)
+		(at 128.848 31.632)
 		(descr "http://www.atmel.com/Images/Atmel-8826-SEEPROM-PCB-Mounting-Guidelines-Surface-Mount-Packages-ApplicationNote.pdf")
 		(property "Reference" "U2"
 			(at 0 -6.25 0)
@@ -8982,7 +8982,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 		(layer "F.Cu")
 		(uuid "ceddfac9-8920-4f43-8736-c83ced3bc0d1")
-		(at 151.546801 67.094)
+		(at 174.033401 18.542)
 		(descr "CP, Radial series, Radial, pin pitch=2.00mm, diameter=4mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.00mm diameter 4mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C2"
@@ -10096,7 +10096,7 @@
 	(footprint "IRF1405:TO254P483X1016X1994-3P"
 		(layer "F.Cu")
 		(uuid "d0d34a8e-51ad-4eef-89f2-0a2d09b4ddc9")
-		(at 158.887 88.489)
+		(at 138.43 53.092 180)
 		(descr "ADR444ARMZ")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q6"
@@ -10147,7 +10147,7 @@
 			)
 		)
 		(property "Description_1" "N-channel MOSFET,IRF1405 169A 55V"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10160,7 +10160,7 @@
 			)
 		)
 		(property "Height" "4.83"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10173,7 +10173,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Infineon"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10186,7 +10186,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "IRF1405"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10199,7 +10199,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10212,7 +10212,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10225,7 +10225,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10238,7 +10238,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10255,14 +10255,14 @@
 		(sheetfile "UWSC_PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -2.795 -3.425)
-			(end -2.795 0)
+			(start 7.875 1.405)
+			(end 7.875 -3.425)
 			(stroke
 				(width 0.2)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "eb76d666-1825-4b80-beeb-3ba1d0d732ee")
+			(uuid "9ef3fafa-6569-484e-987f-f30c01aa92dd")
 		)
 		(fp_line
 			(start 7.875 -3.425)
@@ -10275,44 +10275,14 @@
 			(uuid "db8715c0-38dc-4957-be47-dcce10229e81")
 		)
 		(fp_line
-			(start 7.875 1.405)
-			(end 7.875 -3.425)
+			(start -2.795 -3.425)
+			(end -2.795 0)
 			(stroke
 				(width 0.2)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9ef3fafa-6569-484e-987f-f30c01aa92dd")
-		)
-		(fp_line
-			(start -3.045 -3.675)
-			(end 8.125 -3.675)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "d47f212b-6ad7-4e7c-b334-ca5a48cc9ea1")
-		)
-		(fp_line
-			(start -3.045 1.655)
-			(end -3.045 -3.675)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "c3702c4c-a56f-4a93-9cff-072082589a1b")
-		)
-		(fp_line
-			(start 8.125 -3.675)
-			(end 8.125 1.655)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "38b6c30f-a564-40cd-b6d6-1a139b452da5")
+			(uuid "eb76d666-1825-4b80-beeb-3ba1d0d732ee")
 		)
 		(fp_line
 			(start 8.125 1.655)
@@ -10325,34 +10295,44 @@
 			(uuid "48d990b2-0f2e-495d-8075-d254a8c7f1b1")
 		)
 		(fp_line
-			(start -2.795 -3.425)
-			(end 7.875 -3.425)
+			(start 8.125 -3.675)
+			(end 8.125 1.655)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "cc13badb-7b70-4060-8aa2-27018d9be9f3")
+			(layer "F.CrtYd")
+			(uuid "38b6c30f-a564-40cd-b6d6-1a139b452da5")
 		)
 		(fp_line
-			(start -2.795 -2.155)
-			(end -1.525 -3.425)
+			(start -3.045 1.655)
+			(end -3.045 -3.675)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "04393e11-8847-4bb1-a620-36d3ebea7bcf")
+			(layer "F.CrtYd")
+			(uuid "c3702c4c-a56f-4a93-9cff-072082589a1b")
 		)
 		(fp_line
-			(start -2.795 1.405)
-			(end -2.795 -3.425)
+			(start -3.045 -3.675)
+			(end 8.125 -3.675)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "d47f212b-6ad7-4e7c-b334-ca5a48cc9ea1")
+		)
+		(fp_line
+			(start 7.875 1.405)
+			(end -2.795 1.405)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "444ab691-f233-4c81-9de1-329d8b6ec9c6")
+			(uuid "b6c106fc-c785-4a8d-a526-62b212596d1a")
 		)
 		(fp_line
 			(start 7.875 -3.425)
@@ -10365,14 +10345,34 @@
 			(uuid "7213e0ea-3da4-4fe7-b5ad-8f38fe3db35e")
 		)
 		(fp_line
-			(start 7.875 1.405)
-			(end -2.795 1.405)
+			(start -2.795 1.405)
+			(end -2.795 -3.425)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b6c106fc-c785-4a8d-a526-62b212596d1a")
+			(uuid "444ab691-f233-4c81-9de1-329d8b6ec9c6")
+		)
+		(fp_line
+			(start -2.795 -2.155)
+			(end -1.525 -3.425)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "04393e11-8847-4bb1-a620-36d3ebea7bcf")
+		)
+		(fp_line
+			(start -2.795 -3.425)
+			(end 7.875 -3.425)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "cc13badb-7b70-4060-8aa2-27018d9be9f3")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -10386,7 +10386,7 @@
 			)
 		)
 		(pad "1" thru_hole rect
-			(at 0 0)
+			(at 0 0 180)
 			(size 2.07 2.07)
 			(drill 1.38)
 			(layers "*.Cu" "*.Mask")
@@ -10396,7 +10396,7 @@
 			(uuid "afbd6d39-0eec-45dd-b8fd-27a819b6784c")
 		)
 		(pad "2" thru_hole circle
-			(at 2.54 0)
+			(at 2.54 0 180)
 			(size 2.07 2.07)
 			(drill 1.38)
 			(layers "*.Cu" "*.Mask")
@@ -10406,7 +10406,7 @@
 			(uuid "e4e66ae5-d531-4de5-97fc-8202d78b7503")
 		)
 		(pad "3" thru_hole circle
-			(at 5.08 0)
+			(at 5.08 0 180)
 			(size 2.07 2.07)
 			(drill 1.38)
 			(layers "*.Cu" "*.Mask")
@@ -10431,7 +10431,7 @@
 	(footprint "IRF1405:TO254P483X1016X1994-3P"
 		(layer "F.Cu")
 		(uuid "eda5e5a9-29ba-4784-b35d-ded1b2fd79b4")
-		(at 158.887 75.729)
+		(at 172.466 49.022)
 		(descr "ADR444ARMZ")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q4"
@@ -10766,7 +10766,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "f62a9409-eb81-4722-885f-d2f025872801")
-		(at 186.592 86.684)
+		(at 197.308 70.516)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
@@ -10959,7 +10959,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 		(layer "F.Cu")
 		(uuid "f64129df-e177-4865-9210-eab537aee14b")
-		(at 151.546801 61.544)
+		(at 144.272 8.89)
 		(descr "CP, Radial series, Radial, pin pitch=2.00mm, diameter=4mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.00mm diameter 4mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C1"
@@ -12073,11 +12073,11 @@
 	(footprint "Diode_SMD:D_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "fb834198-831d-40a7-9aa0-687b0a8b7fa3")
-		(at 188.372 71.824 90)
+		(at 166.088 54.375 90)
 		(descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D3"
-			(at 0 -1.05 270)
+			(at 0 -1.05 90)
 			(layer "F.SilkS")
 			(uuid "f3ac2179-2655-4aba-9353-c6b595eccbea")
 			(effects
@@ -12088,7 +12088,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.05 270)
+			(at 0 1.05 90)
 			(layer "F.Fab")
 			(uuid "8db4f2d3-b784-48a5-8530-92759af667b2")
 			(effects
@@ -12099,7 +12099,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cdd13b9e-0b4e-48b0-b816-630299e52319")
@@ -12111,7 +12111,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5435845f-1485-45c8-8e83-dd509f6db94e")
@@ -12265,7 +12265,7 @@
 			(uuid "24b8c349-10a6-47fa-9e2e-a072d5565913")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -0.68 270)
+			(at 0 -0.68 90)
 			(layer "F.Fab")
 			(uuid "ccf6ced2-b071-4d03-9822-86d61a01f6e6")
 			(effects
@@ -12321,6 +12321,28 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_circle
+		(center 152.908 38.608)
+		(end 168.908 38.608)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "808f8c99-2427-44dc-b919-f3ee225ed874")
+	)
+	(gr_circle
+		(center 152.908 38.608)
+		(end 186.908 38.608)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "b6665637-4571-4c50-8ac9-f9075cc36b10")
 	)
 	(embedded_fonts no)
 )
